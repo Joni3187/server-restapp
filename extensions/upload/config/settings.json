@@ -1,8 +1,10 @@
-{
-    "provider": "cloudinary",
-    "providerOptions": {
-        "cloud_name": "",
-        "api_key": "",
-        "api_secret": ""
-    }
-}
+// Working code for cloudinary, can enter creds, NEED SECRET KEYS
+
+// {
+//     "provider": "cloudinary",
+//     "providerOptions": {
+//         "cloud_name": "",
+//         "api_key": "",
+//         "api_secret": ""
+//     }
+// }
