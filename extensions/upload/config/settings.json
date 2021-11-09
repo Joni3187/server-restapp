@@ -1,8 +1,8 @@
 {
     "provider": "cloudinary",
     "providerOptions": {
-        "cloud_name": "eren-joni",
-        "api_key": "426917342995532",
-        "api_secret": "CajDz2koONn7SeBughkJ8K7gdRI"
+        "cloud_name": "",
+        "api_key": "",
+        "api_secret": ""
     }
 }
