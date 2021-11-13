@@ -23,28 +23,3 @@ $ npm install
 $ yarn develop
 ```
 
-
-
-<!-- SQL FAQ -->
-
-GraphQL < localhost:1337/graphql >
-
-{
-    restaurants {
-        id
-        name
-        description
-        image {
-            url
-        }
-        dishes {
-            id
-            name
-            description
-            price
-            image{
-                url
-            }
-        }
-    }
-}
